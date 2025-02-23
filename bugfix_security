@@ -1,0 +1,35 @@
+Ignore operating system files
+.DS_Store
+Thumbs.db
+
+Ignore IDE files
+.vscode/
+.idea/
+.eclipse/
+
+Ignore build and compilation files
+node_modules/
+build/
+dist/
+
+Ignore logs and temporary files
+*.log
+*.tmp
+
+Ignore sensitive information
+.env
+secrets.json
+
+Ignore other files
+*.bak
+*.swp
+*.swo
+This .gitignore file tells Git to ignore the following types of files:
+
+- Operating system files like .DS_Store and Thumbs.db
+- IDE configuration files like .vscode/ and .idea/
+- Build and compilation output like node_modules/ and build/
+- Logs and temporary files like *.log and *.tmp
+- Sensitive information like .env and secrets.json
+- Other miscellaneous files like *.bak and *.swp
+
