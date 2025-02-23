@@ -32,4 +32,5 @@ This .gitignore file tells Git to ignore the following types of files:
 - Logs and temporary files like *.log and *.tmp
 - Sensitive information like .env and secrets.json
 - Other miscellaneous files like *.bak and *.swp
+CODES
 
